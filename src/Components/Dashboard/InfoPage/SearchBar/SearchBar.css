@@ -1,0 +1,6 @@
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: rgb(37 99 235);
+    opacity: 40%;
+    font-weight: 500;
+}
